@@ -10,6 +10,6 @@ const sayThanks = () =>
 {
 console.log("Thanks from an arrow function!");
 };
-greet(); // Calls the declared
-function sayGoodbye(); // Calls thefunction expression
+greet(); // Calls the declared function
+sayGoodbye(); // Calls thefunction expression
 sayThanks(); // Calls the arrow function
